@@ -1,0 +1,12 @@
+{
+  "name": "客户回访管家",
+  "short_name": "回访管家",
+  "description": "个人客户两月回访与倒计时提醒工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#163a5f",
+  "icons": [
+    {"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
